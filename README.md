@@ -16,7 +16,7 @@ Welcome to the Rust Learning Game! This program is designed to help you learn Ru
 
 To run this game, make sure you have Rust installed on your machine. If you don't have Rust installed, you can get it from [the Rust official website](https://www.rust-lang.org/).
 
-### Run the Game
+### Run the Data-Type Game
 
 1. Clone this repository:
    ```bash
